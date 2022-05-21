@@ -42,7 +42,7 @@ public void click_on_login_button() {
 
 @Then("verify the homepage of facbook is visible or not")
 public void verify_the_homepage_of_facbook_is_visible_or_not() {
-	System.out.println("Invalid password");
+	System.out.println("Invalid credentials");
 
 
 }
